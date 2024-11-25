@@ -14,7 +14,7 @@
 - **Backend:** Django, API Development
 - **Data Science:** SQL, PostgreSQL  
 - **DevOps:** Docker, Ansible, Git  
-- **Infraestrutura:** AWS, Terraform  
+- **Infraestrutura:** On-promise
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)
@@ -24,11 +24,14 @@
 
 ## 🎓 Formação e Certificações
 - **Engenharia de Controle e Automação** – IFMT (em andamento)  
-- **Certificações:**  
-  - API com Django: Testes e Documentação  
+- **Certificações:**
+  - Python Impressionador
+  - Python TDD 
+  - API com Django: Testes e Documentação
   - IaC: Ansible
   - Gestão de Containers Docker  
-  - Kubernetes
+  - Linux
+  - Airflow
 
 ---
 
@@ -49,14 +52,10 @@
 - **Trainee:**  
   Automação com VBA em planilhas Excel, com transição para Python para soluções mais robustas.
 
-### **GlobalTask Gestão e Tecnologia**  
-- Realização de pesquisas e entrada de dados com análise detalhada.  
-- Colaboração em projetos de mapeamento de redes com **AutoCAD** e **Google Earth**.
-
 ---
 
 ## 🌟 Projetos em Destaque
-- **RPA e Bots:** Veja meus projetos no [GitHub](https://github.com/botlorien).  
+- **RPA e Bots:** Veja meus projetos no [GitHub](https://github.com/botlorien/bot-ml-images-classify).  
 
 ---
 
