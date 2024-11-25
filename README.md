@@ -62,7 +62,6 @@
 ## 📫 Como me encontrar
 - **LinkedIn:** [Ben-Hur Pereira Borges dos Santos](https://www.linkedin.com/in/ben-hur-p-b-santos)  
 - **E-mail:** b.hsantossdg@gmail.com  
-- **GitHub:** [botlorien](https://github.com/botlorien)
 
 ---
 
