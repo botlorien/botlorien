@@ -55,7 +55,11 @@
 ---
 
 ## 🌟 Projetos em Destaque
-- **RPA e Bots:** Veja meus projetos no [GitHub](https://github.com/botlorien/bot-ml-images-classify).  
+- **RPA e Bots:** Veja meus projetos abaixo.
+- [RPA Classificador de comprovantes com Machine Learning](https://github.com/botlorien/bot-ml-images-classify)
+- [Interface Grafica Dinamica para RPA com interação de usuario](https://github.com/botlorien/botgui)
+- [Pacote para Automação WEB usando Selenium e Requests](https://github.com/botlorien/botweb)
+- [Pacote para processamento de dados para ser usado em processos de ETL](https://github.com/botlorien/dataprocess)
 
 ---
 
